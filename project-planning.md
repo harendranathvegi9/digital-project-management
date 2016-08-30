@@ -29,7 +29,7 @@ A better solution is to break a task list into several task lists so the flow is
 
 When deciding on how you want to organize tasks, keep in mind all the tools you have at your disposal and how you can retrieve information.
 
-Active Collab offers a solution for this - a task has several filterable fields. It practically means you don't have to organize task lists by time or assignee because you can always get those dimensions automatically. 
+[Active Collab](https://www.activecollab.com/) offers a solution for this - a task has several filterable fields. It practically means you don't have to organize task lists by time or assignee because you can always get those dimensions automatically. 
 
 If you need more to segment tasks using more dimensions (eg. want to mark task as a bug that’s in-progress with a high complexity), use **labels** in addition to task lists. Labels are like tags and can be anything you want; one task can contain multiple labels. You can communicate a task’s complexity, type of work, priority, or anything else by using them. This way, task lists don't have to do so much work.
 
