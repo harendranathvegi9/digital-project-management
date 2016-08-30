@@ -37,4 +37,6 @@ For example, if you organize task lists by feature, you can use labels to indica
 
 To recap: use task lists to group tasks by one principle (usually stage of progress or type of work), and add labels if you need more information. You can always filter tasks by assignee and date automatically when needed.
 
-Learn more about [project management](https://www.activecollab.com/pages/l/ebooks/guide-managing-projects-ebook.html)
+[Download ebook about project management](https://www.activecollab.com/pages/l/ebooks/guide-managing-projects-ebook.html)
+
+![managing digital projects guide cover](/book-guide-projects.png)
